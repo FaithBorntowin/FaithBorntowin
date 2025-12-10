@@ -1,13 +1,45 @@
+# 👋 Hey there, I'm Faith Iheabata
 
-<!--
-**FaithBorntowin/FaithBorntowin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning frontend development @Alx and building projects to grow my skills and confidence in web development.  
+Right now, I'm focused on writing clean code, understanding best practices, and improving every step of the way.
 
--->
-# Hi — I'm Faith 👋
-Iam a biologist exploring the world of tech through front end web development 
-📫 Contact: faithiheabat1@gmail.com
-iam currently learning Html,Css and Javascript
-i'm looking to collaborate on real life projects to help fast track my learning
-fun fact:I love gifting people 
+---
 
-![_DSC22261](https://github.com/user-attachments/assets/93f20a75-d2d8-499f-a177-1317ecc626ca)
+### 🚀 Currently Learning
+- HTML
+- CSS
+- JavaScript
+  
+
+---
+
+### 💻 What I'm Working On
+- Personal portfolio website  
+- Recreating simple UI layouts  
+- Improving consistency with coding habits and documentation  
+
+
+
+### 🎯 Goals
+- Become confident with responsive and accessible web design  
+- Build real-world projects and refine my problem-solving skills  
+- Explore frameworks like React when ready (iam not Ready yet)  
+
+---
+
+### 🌍 About Me
+Based in Lagos, Nigeria   
+Curious, intentional, and passionate about growth  both personally and professionally.
+
+---
+
+### 📬 Connect
+- Instagram: @faith_isreal_  
+- linkedin: https://www.linkedin.com/in/faith-nwaihim-a140b023b/
+-  
+
+---
+
+> Progress over perfection  every commit counts.
+
+
